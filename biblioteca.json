@@ -1,0 +1,26 @@
+{
+    "libros": [
+        {
+            "titulo": "PARCIAL :)",
+            "autor": "juan",
+            "categoria": "Paranormal",
+            "estado": "Devuelto"
+        },
+        {
+            "titulo": "HOLAAAA",
+            "autor": "JUANEXX29",
+            "categoria": "Romcom",
+            "estado": "Prestado"
+        }
+    ],
+    "usuarios": [
+        {
+            "nombre": "juan",
+            "codigo": "29"
+        },
+        {
+            "nombre": "JUAN",
+            "codigo": "2006"
+        }
+    ]
+}
